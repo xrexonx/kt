@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First KT App</string>
+    <string name="happy_new_year">Happy New Year!</string>
+    <string name="button_send">Send</string>
+</resources>
